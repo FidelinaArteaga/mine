@@ -7,7 +7,6 @@ MINE é uma plataforma que permite transações sem a presença física de compr
 Esta solução é baseada em tecnologias Web 3.0, através da criação de um DApp implantado na cadeia de Blockchain Ethereum.
 
 
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
 
 # Mine
 

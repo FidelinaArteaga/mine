@@ -1,3 +1,14 @@
+Projeto de equipe onde fiz parte do Develop Ethereum organizado pela Platzy e a Ethereum Foundation.
+
+NFT MarketPlace propriedades físicas (veículos, motocicletas, barcos, entre outros).
+
+MINE é uma plataforma que permite transações sem a presença física de compradores e vendedores nos locais ou países onde a operação ocorre, com transações de compra/venda pagas em moedas criptográficas, e compras protegidas para salvaguardar a segurança tanto do comprador quanto do vendedor.
+
+Esta solução é baseada em tecnologias Web 3.0, através da criação de um DApp implantado na cadeia de Blockchain Ethereum.
+
+
+Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
+
 # Mine
 
 Physical properties NFT MarketPlace (vehicles, motorcycles, boats, among others).
